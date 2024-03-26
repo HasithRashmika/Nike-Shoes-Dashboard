@@ -32,13 +32,13 @@ The dashboard uses the following columns from the Nike US data set:
 
 ## Screenshots
 
-![Overview Page](screenshots/overview.png)
+(Overview Page.PNG)
 *Overview Page: View all Nike shoe products.*
 
-![Insight Page](screenshots/insight.png)
+(Insight Page.PNG)
 *Insight Page: Get detailed insights into sales performance.*
 
-![Performance Page](screenshots/performance.png)
+(Performance Page.PNG)
 *Performance Page: Analyze the performance of selected shoe models.*
 
 ## License
