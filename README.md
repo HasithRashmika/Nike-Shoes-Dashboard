@@ -32,19 +32,18 @@ The dashboard uses the following columns from the Nike US data set:
 
 ## Screenshots
 
-(Overview Page.PNG)
+![Overview Page](https://github.com/HasithRashmika/Nike-Shoes-Dashboard/blob/main/Overview%20Page.PNG)
 *Overview Page: View all Nike shoe products.*
 
-(Insight Page.PNG)
+![Insight Page](https://github.com/HasithRashmika/Nike-Shoes-Dashboard/blob/main/Insight%20Page.PNG)
 *Insight Page: Get detailed insights into sales performance.*
 
-(Performance Page.PNG)
+![Performance Page](https://github.com/HasithRashmika/Nike-Shoes-Dashboard/blob/main/Performance%20Page.PNG)
 *Performance Page: Analyze the performance of selected shoe models.*
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
 
 
 
